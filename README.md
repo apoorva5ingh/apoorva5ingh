@@ -52,4 +52,15 @@ I'm a Lazy B.Tech CSE undergraduate from India who believes in building things t
 [![Instagram](https://img.shields.io/badge/Instagram-@apoorva__designs-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/ap1orva)  
 ✉️ **Email**: apoorvadeepsingh7@gmail.com  
 
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=apoorva5ingh&show_icons=true&theme=radical" alt="Apoorva's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apoorva5ingh&theme=radical" alt="GitHub Streak" />
+</p>
+
 ---
