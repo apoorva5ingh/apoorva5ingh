@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Apoorva Singh</h1>
-<h3 align="center">🚀 Aspiring Full-Stack Developer | Backend Enthusiast | Designer by Passion</h3>
+<h3 align="center">🚀  Full-Stack Developer | LLM |GitHub | GitLab | Designer by Passion</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=apoorva5ingh&label=Profile%20views&color=0e75b6&style=flat" alt="apoorva5ingh" />
@@ -8,7 +8,7 @@
 ---
 
 ### 💡 About Me
-I'm an energetic and curious B.Tech CSE undergraduate from India who believes in building things that matter. From building backend systems to designing engaging UI/UX on Canva and creating GitHub-based tools, I enjoy pushing boundaries of creativity and logic.  
+I'm a B.Tech CSE undergraduate from India who believes in building things that matter. From building backend systems to designing engaging UI/UX on Canva and creating GitHub-based tools, I enjoy pushing boundaries of creativity and logic.  
 
 I’m also the founder of **Ez-Pay**, and a certified learner in Agile, AI, and Backend systems. Whether it’s a tool that generates salary slips or a playful browser extension — I love bringing ideas to life.
 
