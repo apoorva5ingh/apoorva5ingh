@@ -32,7 +32,7 @@ I'm a Lazy B.Tech CSE undergraduate from India who believes in building things t
 | 💰 **Salary Slip Generator** | Generate instant salary slips (Deployed via GitHub Pages) | [View Project](https://apoorva5ingh.github.io/SalarySlipGenerator) |
 | 💼 **Ez-Pay** | Simplifying salary & payroll automation | *(Private/Coming Soon)* |
 | 🧹 **One-Click Email Cleaner** | Chrome Extension to declutter Gmail inbox | *(Coming Soon)* |
-| 📸 **Design & Photography** | Canva Designs + Photo Gallery on Instagram | [Instagram](https://instagram.com/your_username) |
+| 📸 **Design & Photography** | Canva Designs + Photo Gallery on Instagram | [Instagram](https://instagram.com/axoorva) |
 
 ---
 
