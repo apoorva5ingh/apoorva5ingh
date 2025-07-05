@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Apoorva Singh</h1>
-<h3 align="center">🚀  Full-Stack Developer | LLM |GitHub | GitLab | Designer by Passion</h3>
+<h3 align="center">🚀 Full-Stack Developer | Backend |GitHub |GitLab| LLM-Models | Designer by Passion</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=apoorva5ingh&label=Profile%20views&color=0e75b6&style=flat" alt="apoorva5ingh" />
@@ -8,17 +8,48 @@
 ---
 
 ### 💡 About Me
-I'm a B.Tech CSE undergraduate from India who believes in building things that matter. From building backend systems to designing engaging UI/UX on Canva and creating GitHub-based tools, I enjoy pushing boundaries of creativity and logic.  
+I'm a Lazy B.Tech CSE undergraduate from India who believes in building things that matter. From backend systems to UI/UX design on Canva, I love mixing logic with creativity.  
 
-I’m also the founder of **Ez-Pay**, and a certified learner in Agile, AI, and Backend systems. Whether it’s a tool that generates salary slips or a playful browser extension — I love bringing ideas to life.
+🚀 Founder of **Ez-Pay** | 💼 Intern @ Octanet | 🧠 AI & Agile Certified
 
 ---
 
 ### 💻 Tech Stack
-```bash
-💼 Languages:      JavaScript • Python • C/C++ • HTML • CSS • SQL  
-🛠️ Frameworks:    Node.js • Express.js • React (beginner) • Bootstrap  
-🗄️ Databases:     MongoDB • MySQL  
-⚙️ Tools & DevOps: Git • GitHub • GitLab • VS Code • Chrome Extensions  
-🎨 Design:        Canva • Figma  
-📦 Others:        Postman • Firebase • REST APIs
+
+- 💼 **Languages**: `JavaScript`, `Python`, `C/C++`, `HTML`, `CSS`, `SQL`
+- 🛠️ **Frameworks**: `Node.js`, `Express.js`, `React` (beginner), `Bootstrap`
+- 🗄️ **Databases**: `MongoDB`, `MySQL`
+- ⚙️ **Tools & DevOps**: `Git`, `GitHub`, `GitLab`, `VS Code`, `Chrome Extensions`
+- 🎨 **Design**: `Canva`, `Figma`
+- 📦 **Others**: `Postman`, `Firebase`, `REST APIs`
+
+---
+
+### 🚀 Current Projects
+
+| Project | Description | Link |
+|--------|-------------|------|
+| 💰 **Salary Slip Generator** | Generate instant salary slips (Deployed via GitHub Pages) | [View Project](https://apoorva5ingh.github.io/SalarySlipGenerator) |
+| 💼 **Ez-Pay** | Simplifying salary & payroll automation | *(Private/Coming Soon)* |
+| 🧹 **One-Click Email Cleaner** | Chrome Extension to declutter Gmail inbox | *(Coming Soon)* |
+| 📸 **Design & Photography** | Canva Designs + Photo Gallery on Instagram | [Instagram](https://instagram.com/your_username) |
+
+---
+
+### 🏅 Certifications & Achievements
+
+- ✅ **Backend Development** – PW Skills  
+- ✅ **Agile Training** – HP Agile Certified  
+- ✅ **AI Productivity** – ChatGPT & OpenAI  
+- ✅ **Internship** – Octanet  
+- 🥇 Top performer in internal hackathons & tech events
+
+---
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/apoorvasingh24/)  
+[![Instagram](https://img.shields.io/badge/Instagram-@apoorva__designs-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/ap1orva)  
+✉️ **Email**: apoorvadeepsingh7@gmail.com  
+
+---
