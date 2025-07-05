@@ -6,6 +6,14 @@
 </p>
 
 ---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=apoorva5ingh&show_icons=true&theme=radical" alt="Apoorva's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apoorva5ingh&theme=radical" alt="GitHub Streak" />
+</p>
+
 
 ### 💡 About Me
 I'm a Lazy B.Tech CSE undergraduate from India who believes in building things that matter. From backend systems to UI/UX design on Canva, I love mixing logic with creativity.  
@@ -55,12 +63,5 @@ I'm a Lazy B.Tech CSE undergraduate from India who believes in building things t
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apoorva5ingh&show_icons=true&theme=radical" alt="Apoorva's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apoorva5ingh&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
