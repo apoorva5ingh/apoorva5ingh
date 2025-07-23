@@ -1,67 +1,81 @@
-<h1 align="center">Hey there 👋, I'm Apoorva Singh</h1>
-<h3 align="center">🚀 Full-Stack Developer | Backend |GitHub |GitLab| LLM-Models | Designer by Passion</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=apoorva5ingh&label=Profile%20views&color=0e75b6&style=flat" alt="apoorva5ingh" />
-</p>
-
----
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apoorva5ingh&show_icons=true&theme=radical" alt="Apoorva's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apoorva5ingh&theme=radical" alt="GitHub Streak" />
-</p>
+🌟 Solving software intricacies | I code to explore 📈
 
 
-### 💡 About Me
-I'm a Lazy B.Tech CSE undergraduate from India who believes in building things that matter. From backend systems to UI/UX design on Canva, I love mixing logic with creativity.  
-
-🚀 Founder of **Ez-Pay** | 💼 Intern @ Octanet | 🧠 AI & Agile Certified
-
----
-
-### 💻 Tech Stack
-
-- 💼 **Languages**: `JavaScript`, `Python`, `C/C++`, `HTML`, `CSS`, `SQL`
-- 🛠️ **Frameworks**: `Node.js`, `Express.js`, `React` (beginner), `Bootstrap`
-- 🗄️ **Databases**: `MongoDB`, `MySQL`
-- ⚙️ **Tools & DevOps**: `Git`, `GitHub`, `GitLab`, `VS Code`, `Chrome Extensions`
-- 🎨 **Design**: `Canva`, `Figma`
-- 📦 **Others**: `Postman`, `Firebase`, `REST APIs`
-
----
-
-### 🚀 Current Projects
-
-| Project | Description | Link |
-|--------|-------------|------|
-| 💰 **Salary Slip Generator** | Generate instant salary slips (Deployed via GitHub Pages) | [View Project](https://apoorva5ingh.github.io/SalarySlipGenerator) |
-| 💼 **Ez-Pay** | Simplifying salary & payroll automation | *(Private/Coming Soon)* |
-| 🧹 **One-Click Email Cleaner** | Chrome Extension to declutter Gmail inbox | *(Coming Soon)* |
-| 📸 **Design & Photography** | Canva Designs + Photo Gallery on Instagram | [Instagram](https://instagram.com/axoorva) |
-
----
-
-### 🏅 Certifications & Achievements
-
-- ✅ **Backend Development** – PW Skills  
-- ✅ **Agile Training** – HP Agile Certified  
-- ✅ **AI Productivity** – ChatGPT & OpenAI  
-- ✅ **Internship** – Octanet  
-- 🥇 Top performer in internal hackathons & tech events
-
----
-
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/apoorvasingh24/)  
-[![Instagram](https://img.shields.io/badge/Instagram-@apoorva__designs-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/ap1orva)  
-✉️ **Email**: apoorvadeepsingh7@gmail.com  
-
-
+Hi 👋 My name is Apoorva Deep Singh. You can call me "Apoorv" — the curious engineer who codes for both clarity and chaos.
 ---
 
 
+
+
+🌍 I'm based in India 🇮🇳  
+✉️ You can contact me at: apoorvadeepsingh7@gmail.com
+
 ---
+
+## 👨‍💻 Welcome to My GitHub Playground!
+
+Hey there! I'm Apoorva — a passionate B.Tech CSE student, aspiring AI engineer, and builder at heart.  
+This space is where I tinker, break, learn, and create.
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech in Computer Science & Engineering from **Uttaranchal Institute of Technology**
+- 🧑‍💻 Completed internships at **Octanet** and certified in Agile (HP)
+- 🤖 Certified in ChatGPT & AI Tools, Backend (PW Skills)
+- 💡 Always exploring ways to blend code with real-world impact
+
+---
+
+## 🔥 Current Focus
+
+- 🧠 **AI + Operating Systems** — Building AI agents that interact with Linux/Windows
+- ⚙️ **Microservices & System Design** — Architecting real-world SaaS MVPs
+- 📊 **Automation Pipelines** — Using tools like Puppeteer, FFmpeg, ElevenLabs, GPTZero, and more
+
+---
+
+## 🧪 Noteworthy Projects
+
+- 🧠 **Kaya** — Personal AI assistant for automating tasks via natural language
+- 📺 **YouTube Analyzer** — Tool for scraping, analyzing, and detecting AI-generated content
+- 🤖 **AI OS Assistant** — Smart OS command execution via natural language
+- 🧾 **Quick Quote App** — SaaS MVP using Node.js, MongoDB, React (Vite)
+
+---
+
+## 🎯 Skills
+
+### Languages  
+C, C++, Python, JavaScript, TypeScript, SQL, Java, HTML, CSS
+
+### Frameworks & Tools  
+React, Express.js, Node.js, MongoDB, PostgreSQL, Next.js, Puppeteer, FFmpeg, TensorFlow, PyTorch, Axios, Git, Docker
+
+### Cloud & DevOps  
+GCP, GitHub Actions, Docker Compose, REST APIs, CI/CD
+
+---
+
+## 🎮 Beyond Code
+
+🎮 Gamer @ heart — Love analyzing stats, patterns, and strategies  
+🎬 Pop culture nerd — Anything with strong writing grabs my attention  
+📚 Lifelong learner — Always building, reading, and asking *“what if?”*
+
+---
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+  
+  ![Apoorva's GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorvasingh&show_icons=true&theme=radical&border_radius=10)  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvasingh&layout=compact&theme=tokyonight&border_radius=10)  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=apoorvasingh&theme=highcontrast&border_radius=10)
+
+</div>
+
+## 📫 Let's Connect!
+
+Up for collaboration, brainstorming, or just nerding out on tech/games? Let’s connect!  
+This isn’t just a GitHub profile — it’s a living portfolio of growth, curiosity, and code in motion.
