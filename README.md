@@ -123,7 +123,7 @@ class Apoorv:
 - 🖥️ Cross-platform: Linux & Windows support
 - 🤖 Understands intent, not just syntax
 
-[![Repo](https://img.shields.io/badge/Explore-181717?style=flat-square&logo=github)](https://github.com/apoorva5ingh)
+[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-FF0000?style=flat-square&logo=play&logoColor=white)](https://share.gemini.google/kALGORehsuuJn)
 
 </td>
 <td width="50%" valign="top">
