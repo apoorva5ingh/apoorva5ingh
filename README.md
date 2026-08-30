@@ -1,4 +1,4 @@
-<img src="assets/profile.jpg" align="right" width="220" style="border-radius: 8px;" alt="Apoorva Deep Singh" />
+<img src="WhatsApp Image 2026-08-30 at 9.24.31 PM.jpg" align="right" width="220" style="border-radius: 8px;" alt="Apoorva Deep Singh" />
 
 # Apoorva Deep Singh
 
