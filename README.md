@@ -1,69 +1,34 @@
-<img src="https://raw.githubusercontent.com/apoorva5ingh/apoorva5ingh/main/WhatsApp Image 2026-08-30 at 9.24.31 PM.jpeg" align="right" width="220" style="border-radius: 8px;" alt="Apoorva Deep Singh" />
+# Hi there! 👋 I'm Apoorva Deep Singh
 
-# Apoorva Deep Singh
+I'm a Computer Science & Engineering undergraduate (Class of 2027) at Uttaranchal University, passionate about full-stack development, artificial intelligence, and building scalable systems. 
 
-*Computer Science student building things with AI, software, and curiosity.*
+I enjoy working on complex technical challenges, from optimizing database queries to engineering Retrieval-Augmented Generation (RAG) pipelines. Currently, I am actively building projects, honing my competitive programming skills on LeetCode, and exploring the depths of backend architecture.
 
-I like building things, breaking them, and figuring out how they work. My focus is on backend systems, full-stack development, and integrating LLMs to build intelligent applications. I prefer learning by shipping and writing code that solves actual problems. 
+### 🚀 What I'm Up To
+* 💻 Building full-stack applications and experimenting with AI integrations (OpenAI, Groq, MiniLM).
+* 🔧 Expanding my knowledge in System Design, microservices, and network protocols.
+* 📈 Constantly practicing data structures and algorithms (130+ LeetCode problems solved).
+* 💼 Previously completed an AI Engineering Internship evaluation for Endee.io, where I built an AI Career Engine.
 
-## Currently
+### 🛠️ Tech Stack
+* **Languages:** C++, Python, JavaScript, TypeScript, Java, SQL
+* **Frontend:** React, HTML, CSS, Tailwind CSS
+* **Backend:** Node.js, Express.js, FastAPI, REST APIs, WebSockets
+* **Databases:** PostgreSQL, MongoDB, SQLite
+* **Tools & AI:** Git/GitHub, Docker, Postman, Vector Databases, RAG Pipelines
 
-- Building AI-powered projects
-- Exploring LLMs and RAG systems
-- Improving backend and system design skills
-- Solving DSA problems
+### 📌 Featured Projects
 
-<br>
+* **Mini Wireshark** 
+  A Python-based command-line network packet sniffer utilizing Scapy to decode Ethernet frames, inspect protocol flags, and export PCAP logs.
 
-## Selected Work
+* **Mess-Wise** 
+  A full-stack hostel cafeteria management application built to streamline daily operations, deployed using Render and GitHub Pages.
 
-**[Kaya](YOUR_PROJECT_LINK)**  
-Personal AI assistant experimenting with LLMs, NLP, and OS-level interactions.  
-`Python` `LLMs` `NLP`
+* **AI Career Engine** 
+  An AI system built with custom RAG pipelines, vector search, and language models to automate and enhance career-related data processing.
 
-**[HireVerseAI](YOUR_PROJECT_LINK)**  
-An AI-powered career and recruitment platform.  
-`FastAPI` `AI` `Backend`
-
-**[AI Career Engine](YOUR_PROJECT_LINK)**  
-AI-powered career assistance relying on intelligent retrieval and vector search.  
-`FastAPI` `Vector Databases` `RAG`
-
-**[YouTube Analyzer](YOUR_PROJECT_LINK)**  
-Scraping and analyzing YouTube content to detect AI-generated material.  
-`Python` `Data Analysis`
-
-**[MessWise](YOUR_PROJECT_LINK)**  
-A full-stack hostel cafeteria management system.  
-`React` `TypeScript` `Hono` `SQLite` `Drizzle ORM`
-
-<br>
-
-## Tech I Use
-
-**Building with**  
-`React` · `FastAPI` · `Node.js` · `Hono` · `Express`
-
-**Data**  
-`PostgreSQL` · `MongoDB` · `SQLite`
-
-**Languages**  
-`Python` · `JavaScript` · `TypeScript` · `Java` · `C++`
-
-**Exploring**  
-`LLMs` · `RAG` · `Vector Databases` · `Prompt Engineering`
-
-<br>
-
-## Activity
-
-<!-- A clean, borderless GitHub stats card that blends into the background -->
-<a href="https://github.com/apoorva5ingh">
-  <img src="https://github-readme-stats.vercel.app/api?username=apoorva5ingh&show_icons=false&hide_border=true&theme=transparent&hide_title=true&hide_rank=true&text_color=777777" alt="GitHub Stats" />
-</a>
-
-<br>
-
-## Let's Connect
-
-[GitHub](https://github.com/apoorva5ingh) · [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL_ADDRESS)
+### 📫 Let's Connect!
+* LinkedIn: [Your LinkedIn URL]
+* Portfolio: [Your Portfolio URL]
+* Email: [Your Email]
