@@ -29,6 +29,5 @@ I enjoy working on complex technical challenges, from optimizing database querie
   An AI system built with custom RAG pipelines, vector search, and language models to automate and enhance career-related data processing.
 
 ### 📫 Let's Connect!
-* LinkedIn: [Your LinkedIn URL]
-* Portfolio: [Your Portfolio URL]
-* Email: [Your Email]
+* LinkedIn: https://www.linkedin.com/in/apoorvasingh24/
+* Email: apoorvadeepsingh7@gmail.com
