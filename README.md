@@ -1,95 +1,56 @@
 <div align="center">
+  <!-- Animated Waving Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Apoorva%20Deep%20Singh&fontSize=45&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50" alt="Header" />
+  
   <br>
-  <p><strong>◉ K A Y A </strong> |  <i>v1.0.0 Online</i></p>
-  <p><sup>Apoorva Deep Singh's Personal AI Assistant</sup></p>
-  <br>
+
+  <!-- AI Terminal Typing Animation -->
+  <a href="https://github.com/ApoorvaDeepSingh">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Building+Personal+AI+Assistants;Architecting+RAG+Pipelines;Crafting+Full-Stack+Web+Apps;Training+Language+Models" alt="Typing SVG" />
+  </a>
 </div>
 
-> **Kaya:** Hey, I'm Kaya. I know about Apoorva — his projects, skills, education, and technical journey. Ask me something from the suggested prompts below.
-
 <br>
 
-<details>
-<summary>💬 <b>You:</b> Who is Apoorva?</summary>
-<br>
-<blockquote>
-<b>Kaya:</b> Apoorva Deep Singh is a B.Tech Computer Science and Engineering student at Uttaranchal University (Class of 2027). He is actively exploring Artificial Intelligence, Large Language Models, backend systems, and full-stack engineering.
-</blockquote>
-</details>
+## 🧠 About Me
+I am a Computer Science undergraduate (Class of 2027) specializing in **Artificial Intelligence** and **Full-Stack Development**. I enjoy building intelligent systems, optimizing databases, and bridging the gap between raw LLM capabilities and scalable backend architectures.
 
-<hr>
+* 🎓 **Education:** B.Tech in CSE @ Uttaranchal University
+* 💼 **Experience:** Previously built the *AI Career Engine* during an AI Engineering Internship evaluation for Endee.io
+* ⚡ **Fun fact:** I actively practice competitive programming with 130+ algorithms solved on LeetCode.
 
-<details>
-<summary>💬 <b>You:</b> What are his technical skills?</summary>
-<br>
-<blockquote>
-<b>Kaya:</b> Apoorva works across the full stack with a strong focus on backend and AI integrations. His core stack includes:
-<br><br>
-• <b>Languages:</b> Python, C++, Java, JavaScript, TypeScript, SQL, Kotlin, PHP<br>
-• <b>Frontend:</b> React, Tailwind CSS, Vite, HTML, CSS<br>
-• <b>Backend:</b> FastAPI, Node.js, Express, Hono, REST APIs<br>
-• <b>Databases:</b> MongoDB, PostgreSQL, MySQL, SQLite<br>
-• <b>AI Technologies:</b> LLM Integration, RAG Pipelines, Prompt Engineering, Vector Databases, OpenAI API, NLP<br>
-• <b>Tools & Environment:</b> Git, GitHub, Docker, Postman, VS Code, IntelliJ IDEA, Android Studio
-</blockquote>
-</details>
+---
 
-<hr>
+## ⚙️ Tech Stack & AI Toolbox
 
-<details>
-<summary>💬 <b>You:</b> What projects has he built?</summary>
-<br>
-<blockquote>
-<b>Kaya:</b> Apoorva has developed several technical projects ranging from AI systems to full-stack applications. Here are a few notable ones:
-<br><br>
-• <b>Kaya:</b> A personal AI assistant focused on AI interaction and system-level functionality, built with Python, LLM Integration, NLP, and OS APIs.<br>
-• <b>Mini Wireshark:</b> A Python-based command-line network packet sniffer utilizing Scapy to decode Ethernet frames and inspect protocol flags.<br>
-• <b>HireVerseAI:</b> An AI-powered career assistant utilizing Python, FastAPI, LLMs, Vector Databases, and RAG concepts.<br>
-• <b>MessWise:</b> A full-stack web application built using React, TypeScript, Tailwind CSS, Hono, tRPC, SQLite, and Drizzle ORM.<br>
-• <b>AI Career Engine:</b> An AI-powered career-related backend system leveraging FastAPI and Endee Vector Database.<br>
-• <b>YouTube Analyzer:</b> A content scraping and analysis tool featuring AI-generated content detection, built with Python, Puppeteer, GPTZero, and NLP.<br>
-• <b>Ez-Pay:</b> A payment-related development project.
-</blockquote>
-</details>
+**Artificial Intelligence & Data**
+> `Large Language Models (LLMs)` `RAG Pipelines` `Prompt Engineering` `Vector Databases` `OpenAI API` `NLP` 
 
-<hr>
+**Languages & Frameworks**
+> `Python` `C++` `TypeScript` `Java` `FastAPI` `React` `Node.js` `Tailwind CSS` 
 
-<details>
-<summary>💬 <b>You:</b> Tell me more about HireVerseAI.</summary>
-<br>
-<blockquote>
-<b>Kaya:</b> HireVerseAI is an AI-powered career and professional assistant. Apoorva built it to leverage advanced AI architectures, specifically combining Python and FastAPI with Large Language Models. It utilizes Retrieval-Augmented Generation (RAG) and Vector Database concepts to process and deliver intelligent professional insights.
-</blockquote>
-</details>
+**Databases & Infrastructure**
+> `PostgreSQL` `MongoDB` `SQLite` `Docker` `Git` `Postman` `Linux`
 
-<hr>
+---
 
-<details>
-<summary>💬 <b>You:</b> Tell me about YouTube Analyzer.</summary>
-<br>
-<blockquote>
-<b>Kaya:</b> The YouTube Analyzer is a Python-based project designed to scrape and analyze video content. Apoorva used Puppeteer for content scraping, and integrated GPTZero and NLP techniques to perform metadata analysis and detect AI-generated content.
-</blockquote>
-</details>
+## 🚀 Featured Projects
 
-<hr>
+| Project | Description | Technologies |
+|---|---|---|
+| **[Kaya](#)** | A specialized personal AI assistant utilizing OS APIs and natural language processing. | `Python`, `LLMs`, `NLP` |
+| **[HireVerseAI](#)** | An AI-powered career assistant built on advanced vector search and generation. | `FastAPI`, `React`, `RAG` |
+| **[Mini Wireshark](#)** | CLI network packet sniffer using Scapy for Ethernet frame decoding and analysis. | `Python`, `Scapy` |
+| **[MessWise](#)** | Full-stack hostel cafeteria management web application with a robust backend. | `React`, `Hono`, `SQLite` |
+| **[YouTube Analyzer](#)** | Content scraper and analyzer featuring AI-generated content detection. | `Python`, `Puppeteer` |
 
-<details>
-<summary>💬 <b>You:</b> Write me a Python calculator script.</summary>
-<br>
-<blockquote>
-<b>Kaya:</b> I'm Kaya — Apoorva's personal AI. I can tell you about Apoorva and his work, skills, and technical journey, but I'm not a general-purpose assistant. 
-</blockquote>
-</details>
-
-<br><br>
+---
 
 <div align="center">
-  <p>
-    <a href="https://github.com/your-username">GitHub</a> • 
-    <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> • 
-    <a href="mailto:your-email@example.com">Email</a> • 
-    <a href="https://your-portfolio-link.com">Portfolio</a>
-  </p>
-  <p><sup><i>Session active. Knowledge base strictly scoped to Apoorva Deep Singh.</i></sup></p>
+  <br>
+  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://your-portfolio-website.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <br><br>
+  <p><sup><i>Designed for scalability and intelligence.</i></sup></p>
 </div>
