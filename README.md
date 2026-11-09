@@ -1,56 +1,55 @@
-<div align="center">
-  <!-- Animated Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Apoorva%20Deep%20Singh&fontSize=45&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50" alt="Header" />
-  
-  <br>
-
-  <!-- AI Terminal Typing Animation -->
-  <a href="https://github.com/ApoorvaDeepSingh">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Building+Personal+AI+Assistants;Architecting+RAG+Pipelines;Crafting+Full-Stack+Web+Apps;Training+Language+Models" alt="Typing SVG" />
-  </a>
-</div>
-
-<br>
-
-## 🧠 About Me
-I am a Computer Science undergraduate (Class of 2027) specializing in **Artificial Intelligence** and **Full-Stack Development**. I enjoy building intelligent systems, optimizing databases, and bridging the gap between raw LLM capabilities and scalable backend architectures.
-
-* 🎓 **Education:** B.Tech in CSE @ Uttaranchal University
-* 💼 **Experience:** Previously built the *AI Career Engine* during an AI Engineering Internship evaluation for Endee.io
-* ⚡ **Fun fact:** I actively practice competitive programming with 130+ algorithms solved on LeetCode.
-
----
-
-## ⚙️ Tech Stack & AI Toolbox
-
-**Artificial Intelligence & Data**
-> `Large Language Models (LLMs)` `RAG Pipelines` `Prompt Engineering` `Vector Databases` `OpenAI API` `NLP` 
-
-**Languages & Frameworks**
-> `Python` `C++` `TypeScript` `Java` `FastAPI` `React` `Node.js` `Tailwind CSS` 
-
-**Databases & Infrastructure**
-> `PostgreSQL` `MongoDB` `SQLite` `Docker` `Git` `Postman` `Linux`
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| **[Kaya](#)** | A specialized personal AI assistant utilizing OS APIs and natural language processing. | `Python`, `LLMs`, `NLP` |
-| **[HireVerseAI](#)** | An AI-powered career assistant built on advanced vector search and generation. | `FastAPI`, `React`, `RAG` |
-| **[Mini Wireshark](#)** | CLI network packet sniffer using Scapy for Ethernet frame decoding and analysis. | `Python`, `Scapy` |
-| **[MessWise](#)** | Full-stack hostel cafeteria management web application with a robust backend. | `React`, `Hono`, `SQLite` |
-| **[YouTube Analyzer](#)** | Content scraper and analyzer featuring AI-generated content detection. | `Python`, `Puppeteer` |
-
----
+## Selected work
 
 <div align="center">
-  <br>
-  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://your-portfolio-website.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <br><br>
-  <p><sup><i>Designed for scalability and intelligence.</i></sup></p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=apoorva5ingh&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93306950%3Fu%3Dfa0a23a1b179d1fb74c4221b6dbc69aa561086d1%26v%3D4" alt="apoorva5ingh hero visual" />
+</p>
+
+<p><b>Freelance developer or consultant</b></p>
+
 </div>
+
+## The idea behind the work
+
+> where curiosity becomes creation-apoorv
+
+- 👥 **15** followers · **14** following
+
+*Small, useful work over vague claims.*
+
+## Case studies
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/apoorva5ingh/ERP-Captcha-Reader">ERP-Captcha-Reader</a></b></td><td>Chrome extension for reading and filling CAPTCHA text on a college ERP login page<br/><sub>JavaScript · 12 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/apoorva5ingh/mini-wireshark">mini-wireshark</a></b></td><td>A lightweight, Python-based CLI packet analyzer and network forensic tool<br/><sub>Python · 3 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/apoorva5ingh/ai-career-engine">ai-career-engine</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Python · 3 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/apoorva5ingh/apoorva5ingh">apoorva5ingh</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 3 stars</sub></td></tr>
+</table>
+
+## Creative toolkit
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+## Make something memorable
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=apoorva5ingh&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93306950%3Fu%3Dfa0a23a1b179d1fb74c4221b6dbc69aa561086d1%26v%3D4" alt="apoorva5ingh social visual" />
+</p>
+
+<a href="https://github.com/apoorva5ingh">GitHub</a> · <a href="https://x.com/apoorva5ingh">X</a>
+
+<p align="center"><sub>Apoorva Deep Singh  · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
+<!-- gitskins:architecture -->
+### How [apoorva5ingh](https://github.com/apoorva5ingh/apoorva5ingh) works
+
+This is a GitHub profile README for Apoorva Deep Singh, not a software product with runtime code.
+
+<a href="https://github.com/apoorva5ingh/apoorva5ingh"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/repo-diagram/image?owner=apoorva5ingh&amp;repo=apoorva5ingh&amp;theme=dark&amp;v=1794228809628">
+  <img alt="Architecture diagram of apoorva5ingh/apoorva5ingh" src="https://www.gitskins.com/api/repo-diagram/image?owner=apoorva5ingh&amp;repo=apoorva5ingh&amp;theme=light&amp;v=1794228809628">
+</picture></a>
+
+<sub>Drawn from the code by <a href="https://www.gitskins.com">GitSkins</a></sub>
+<!-- /gitskins:architecture -->
